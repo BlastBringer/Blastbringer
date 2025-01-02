@@ -25,9 +25,6 @@ Hi, I'm **Rahul Saravanan**, a 3rd-year student at **PES University**. I special
   <a href="https://www.linkedin.com/in/rahul-saravanan-391821257">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:rahulsaravanan126@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
 </div>
 
 ### 🎮 Gaming  
