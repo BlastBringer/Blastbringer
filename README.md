@@ -36,8 +36,8 @@ I am also an avid gamer! Here are some of my favorite games:
   <a href="https://supercell.com/en/games/clashofclans/">
     <img src="https://img.shields.io/badge/Clash_of_Clans-FE5000?style=for-the-badge&logo=supercell&logoColor=white" alt="Clash of Clans">
   </a>
-  <a href="https://www.duolingo.com">
-    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo">
+  <a href="https://www.minecraft.net">
+    <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft">
   </a>
 </div>
 
