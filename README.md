@@ -1,21 +1,19 @@
 # Rahul Saravanan 👋🚀💡🎨
 
 ## About Me  
-Hi, I'm **Rahul Saravanan**, a 3rd-year student at **PES University**. I specialize in **Machine Learning** and **Data Analytics**, and I'm passionate about solving real-world problems using technology. 🌟  
+Hi, I'm **Rahul Saravanan**, a 3rd-year student at **PES University**. I specialize in **Machine Learning**, **LLMs** and **Data Analytics**, and I want to solving real-world problems using programming.
 
 ### 🛠️ Skills  
-- **Programming Languages**: Python 🐍, JavaScript 🌐, C 💻, Rust ⚙️  
+- **Programming Languages**: Python 🐍, JavaScript 🌐, C 💻, C++, Rust ⚙️  
 - **Specialization**:  
   - Machine Learning 🤖  
   - Data Analytics 📊  
 
 ### 📘 Currently Learning  
-- Development using **Rust** for high-performance systems ⚡  
-- **C Sharp** Microsoft Certification Course 🏅  
+- Development using **Rust** for high-performance systems ⚡
+- LLM Development using Reinforcement Learning
 - **Japanese** Language in Duolingo 🇯🇵  
 
-### 💻 Currently Working On  
-- **Project**: A real-time **Sign Language Translation System** using **MediaPipe Hands** 🖐️ and **Transformers** 🤖 to form sentences from recognized signs.  
 
 ### 🌐 Let's Connect  
 <div>
@@ -26,24 +24,7 @@ Hi, I'm **Rahul Saravanan**, a 3rd-year student at **PES University**. I special
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
-### 🎮 Gaming  
-I am also an avid gamer! Here are some of my favorite games:  
-<div>
-  <a href="https://www.chess.com">
-    <img src="https://img.shields.io/badge/Chess-000000?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess">
-  </a>
-  <a href="https://supercell.com/en/games/clashofclans/">
-    <img src="https://img.shields.io/badge/Clash_of_Clans-FE5000?style=for-the-badge&logo=supercell&logoColor=white" alt="Clash of Clans">
-  </a>
-  <a href="https://www.minecraft.net">
-    <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft">
-  </a>
-</div>
-
 ---  
-*"Learning never exhausts the mind."* ✨💡  
-
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlastBringer)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlastBringer)](https://github.com/anuraghazra/github-readme-stats)
 
